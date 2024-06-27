@@ -259,7 +259,7 @@ font-family: 'Lobster', cursive;
 
 /* ============================================== Fire
 */
-.untoldcodingg {
+.hitzz {
   border-radius: 100%;
   position: absolute;
   top: -20px;
@@ -269,34 +269,34 @@ font-family: 'Lobster', cursive;
   height: 18px;
 }
 
-.untoldcodingg:nth-child(1) {
-  -webkit-animation: untoldcodingg 2s 5.5s infinite;
-          animation: untoldcodingg 2s 5.5s infinite;
+.hitzz:nth-child(1) {
+  -webkit-animation: hitzz 2s 5.5s infinite;
+          animation: hitzz 2s 5.5s infinite;
 }
 
-.untoldcodingg:nth-child(2) {
-  -webkit-animation: untoldcodingg 1.5s 5.5s infinite;
-          animation: untoldcodingg 1.5s 5.5s infinite;
+.hitzz:nth-child(2) {
+  -webkit-animation: hitzz 1.5s 5.5s infinite;
+          animation: hitzz 1.5s 5.5s infinite;
 }
 
-.untoldcodingg:nth-child(3) {
-  -webkit-animation: untoldcodingg 1s 5.5s infinite;
-          animation: untoldcodingg 1s 5.5s infinite;
+.hitzz:nth-child(3) {
+  -webkit-animation: hitzz 1s 5.5s infinite;
+          animation: hitzz 1s 5.5s infinite;
 }
 
-.untoldcodingg:nth-child(4) {
-  -webkit-animation: untoldcodingg 0.5s 5.5s infinite;
-          animation: untoldcodingg 0.5s 5.5s infinite;
+.hitzz:nth-child(4) {
+  -webkit-animation: hitzz 0.5s 5.5s infinite;
+          animation: hitzz 0.5s 5.5s infinite;
 }
 
-.untoldcodingg:nth-child(5) {
-  -webkit-animation: untoldcodingg 0.2s 5.5s infinite;
-          animation: untoldcodingg 0.2s 5.5s infinite;
+.hitzz:nth-child(5) {
+  -webkit-animation: hitzz 0.2s 5.5s infinite;
+          animation: hitzz 0.2s 5.5s infinite;
 }
 
 /* ============================================== Animation Fire
 */
-@-webkit-keyframes untoldcodingg {
+@-webkit-keyframes hitzz {
   0%, 100% {
     background: rgba(254, 248, 97, 0.5);
     -webkit-box-shadow: 0 0 40px 10px rgba(248, 233, 209, 0.2);
@@ -312,7 +312,7 @@ font-family: 'Lobster', cursive;
             transform: translateY(-20px) scale(0);
   }
 }
-@keyframes untoldcodingg {
+@keyframes hitzz {
   0%, 100% {
     background: rgba(254, 248, 97, 0.5);
     -webkit-box-shadow: 0 0 40px 10px rgba(248, 233, 209, 0.2);
@@ -438,7 +438,7 @@ font-family: 'Lobster', cursive;
     opacity: 1;
   }
 }
-.untoldcoding1{
+.hitzz1{
   font-size: 12px;
   text-align: center;
   text-decoration: underline;
@@ -453,8 +453,8 @@ font-family: 'Lobster', cursive;
         height: auto;
         padding: 10px;
     }
-    .untoldcoding{font-size: 10px;
-   }.untoldcoding1{
+    .hitzz{font-size: 10px;
+   }.hitzz{
     font-size: 6px;
     text-align: center;
     text-decoration: underline;
